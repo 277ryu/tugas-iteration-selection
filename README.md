@@ -1,7 +1,7 @@
 # tugas-iteration-selection
-Dokumentasi Tugas Pemrograman Dasar Iteration & Selection
+Dokumentasi Tugas Pemrograman Dasar
 ---------------------------------------------------------
-Nama    : Muhammad Affriza Ayman Nashmi
+Nama    : Muhammad Affriza Ayman Nashmi <br>
 NIM     : 25/559828/TK/63201
 
 ### bebas.cpp
