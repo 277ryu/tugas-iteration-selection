@@ -6,5 +6,5 @@ NIM     : 25/559828/TK/63201
 
 ### bebas.cpp
 Program untuk mencetak deret bilangan Fibonacci serta menjumlahkan deretnya.
-### daftar-tugas.cpp
-Program to-do-list sederhana.
+### huruf-vokal.cpp
+Program untuk mengecek jumlah huruf vokal dari sebuah kalimat.
